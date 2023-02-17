@@ -46,6 +46,12 @@ body{
     height: 90px;
     border-radius: 100%;
     border: 1px solid white;
+    align-self: auto;
+    justify-content: center;
+    text-align: center;
+    vertical-align: bottom;
+    margin-left: 10%; 
+    margin-top: -25%; 
   }
   .btn{
     width: 85%;
